@@ -1,0 +1,6 @@
+export { CompareFunction, Compare, defaultCompare, reverseCompare } from './compare'
+export { EqualsFunction, defaultEquals, lesserEquals, biggerEquals } from './equals'
+export { DiffFunction, defaultDiff } from './diff'
+export { defaultToString } from './to-string'
+export { swap } from './swap'
+export { DOES_NOT_EXIST } from './constants'
